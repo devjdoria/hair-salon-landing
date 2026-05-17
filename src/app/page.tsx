@@ -392,7 +392,7 @@ export default function Home() {
 
       <footer className="border-t border-[#ded8ca] px-6 py-10">
         <div className="mx-auto flex max-w-7xl flex-col justify-between gap-5 text-sm text-[#687264] md:flex-row">
-          <p>© 2026 Studio Landing. All rights reserved.</p>
+          <p>© 2026 JJDoria . All rights reserved.</p>
           <p>Hair salon · Color · Styling · Rituals</p>
         </div>
       </footer>
